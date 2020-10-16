@@ -13,7 +13,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 
-public class AdivinApp extends Application {
+public class adivinapp extends Application {
 
 	private Button btComprobar;
 	private TextField tfNumero;
